@@ -1,4 +1,4 @@
-class Projects
+class Project
 
   attr_accessor :title
 
@@ -6,5 +6,5 @@ class Projects
     @title = title
   end
 
-  
+
 end
