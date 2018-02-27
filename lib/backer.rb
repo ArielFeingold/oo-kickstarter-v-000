@@ -11,7 +11,7 @@ class Backer
       p = Project.new(title)
       @backed_projects << p.title
       p.backers << self
-      
+
   end
 
 end
